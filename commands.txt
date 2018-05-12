@@ -1,0 +1,3 @@
+ ./tmp		   Justyna Gorczyca
+./tmp nic
+ls -l
